@@ -36,7 +36,7 @@ PASSWORD = base64.b64decode('')
 
 # Authentication with Twitter.
 # Get these by signing into dev.twitter.com and creating an app for yourself.
-CONSUMER_KEY = 'your_consumer_key'
+YOUR_CONSUMER_KEY = 'your_consumer_key'
 CONSUMER_SECRET = 'your_consumer_secret'
 ACCESS_KEY = 'your_access_token'
 ACCESS_SECRET = 'your_access_token_secret'
